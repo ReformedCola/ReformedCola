@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I'm currently seeking for a Frontend Engineer job.
+
+📄 ![Here is my resume.](https://github.com/ReformedCola/resume-builder/blob/master/resume/JasonHe_Resume.pdf)
+
+:email: ![Feel free to shoot me an email.](mailto:zhiyuanfw@gmail.com)
 <!--
 **ReformedCola/ReformedCola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
