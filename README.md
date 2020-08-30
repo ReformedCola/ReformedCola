@@ -6,7 +6,7 @@
 
 :email: [Feel free to shoot me an email](mailto:zhiyuanfw@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReformedCola&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&hide=issues,contribs" />
+<img src="https://github-readme-stats.vercel.app/api?username=ReformedCola&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&hide=issues,contribs" />
 <!--
 **ReformedCola/ReformedCola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
