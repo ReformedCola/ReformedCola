@@ -6,7 +6,7 @@
 
 :email: [Feel free to shoot me an email](mailto:zhiyuanfw@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedCola&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReformedCola&layout=compact) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=ReformedCola&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&hide=issues,contribs&include_all_commits=true" />
 <!--
