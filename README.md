@@ -2,7 +2,7 @@
 
 🌱 I'm currently seeking a Cybersecurity Analyst or Frontend Engineer job opportunity.
 
-:pushpin: [Here is my resume](https://github.com/ReformedCola/resume-builder/blob/master/resume/JasonHe_Resume.pdf)
+:pushpin: [Here is my resume](https://github.com/ReformedCola/resume-builder/blob/master/resume/JasonHe_SOC.pdf)
 
 :email: [Feel free to shoot me an email](mailto:zhiyuanfw@gmail.com)
 
