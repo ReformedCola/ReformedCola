@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I'm currently seeking for a Frontend Engineer job opportunity.
+🌱 I'm currently seeking a Cybersecurity Analyst or Frontend Engineer job opportunity.
 
 :pushpin: [Here is my resume](https://github.com/ReformedCola/resume-builder/blob/master/resume/JasonHe_Resume.pdf)
 
